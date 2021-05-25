@@ -10,7 +10,7 @@ In this module, we analyze a dataset for a fictious ride-share company PyBer. Th
 
 #### Summary Table
 The table shows the summary for total rides, total drivers, total fares, and average fare per ride and fare per driver across the three city types. 
-![PyBer Chart by City Type](https://github.com/SG314159/PyBer_Analysis/blob/main/analysis/Summary_df.png)
+![PyBer Chart by City Type](https://github.com/SG314159/PyBer_Analysis/blob/main/analysis/Summary_df.PNG)
 Since urban areas are the most populated, it makes sense that Urban cities have the highest number of rides, number of drivers, and total fares. Urban rides had the lowest average fare per ride and lowest average fare per driver. This may be due to shorter trips within an urban city. 
 
 Rural cities have the fewest number of rides and number of drivers, and the smallest total fare since they are less densely populated. Rural rides did have the highest average fare per ride and the highest average fare per driver. This may be due to the fact that rural rides may go over longer distances on the ground as well as there are just fewer drivers overall. It would be helpful to gather data on the distance traveled by each trip to confirm if this correlation exists.
